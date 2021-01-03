@@ -55,6 +55,11 @@ body {
   min-width: 320px;
 }
 
+iframe {
+  border: 0;
+  outline: 0;
+}
+
 nav {
   position: relative;
   display: -webkit-box;
